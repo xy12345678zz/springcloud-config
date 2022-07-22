@@ -1,1 +1,2 @@
-config-test.yml
+config
+  info: config-test version:1
